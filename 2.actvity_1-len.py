@@ -24,6 +24,7 @@ print('length of', test_string,'is', len(test_string))
 test_string = b"Python"    
 print('length of', test_string,'is', len(test_string))
 
+
 test_list = [1, 2, 3]
 test_byte = bytes(test_list)
 print('length of', test_byte,'is', len(test_byte))
