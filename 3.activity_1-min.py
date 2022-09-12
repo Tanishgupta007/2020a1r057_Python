@@ -7,6 +7,6 @@ min_number = min(number)
 print("The Smallest Number in the list ",number," is " ,min_number)
 
 # the smallest string in a list
-string = ['Tanish' , 'gupta', 'pywsdth']
+string = ['Tanish' , 'gupta', 'pythonLab']
 min_str = min(string , key=len)
 print("The Smallest string in the list ",string," is " ,min_str)
